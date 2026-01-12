@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning Vue.js<br>
+🔭 I’m currently working on my personal projects<br>🌱 I’m currently learning Java Springboot & AngularJS<br>
 
 
 ## 🌐 Socials:
