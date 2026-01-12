@@ -13,6 +13,7 @@
 # 💻 Personal Repos
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) https://github.com/olaszakos19/React-Pizzeria_webapp.git
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) https://github.com/olaszakos19/NextJS-CV_maker_app.git
 
 # 📊 GitHub Stats:
